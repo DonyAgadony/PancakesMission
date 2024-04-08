@@ -12,3 +12,4 @@ C:\Users\donyb\Desktop\Handasat Tochna\Pancakes\obj\Debug\net8.0\refint\Pancakes
 C:\Users\donyb\Desktop\Handasat Tochna\Pancakes\obj\Debug\net8.0\Pancakes.pdb
 C:\Users\donyb\Desktop\Handasat Tochna\Pancakes\obj\Debug\net8.0\Pancakes.genruntimeconfig.cache
 C:\Users\donyb\Desktop\Handasat Tochna\Pancakes\obj\Debug\net8.0\ref\Pancakes.dll
+C:\Users\donyb\Desktop\Handasat Tochna\Pancakes\obj\Debug\net8.0\Pancakes.sourcelink.json
